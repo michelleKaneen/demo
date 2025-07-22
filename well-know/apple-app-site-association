@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "D687JSDSAZ.com.kaneen-customer-app-stg",
+        "paths": [ "/en/*", "/ar/*" ]
+      }
+    ]
+  }
+}
